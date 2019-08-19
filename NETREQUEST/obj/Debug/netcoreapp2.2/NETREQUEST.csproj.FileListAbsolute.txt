@@ -1,0 +1,13 @@
+D:\C# Мои программы\NETREQUEST\NETREQUEST\bin\Debug\netcoreapp2.2\NETREQUEST.deps.json
+D:\C# Мои программы\NETREQUEST\NETREQUEST\bin\Debug\netcoreapp2.2\NETREQUEST.runtimeconfig.json
+D:\C# Мои программы\NETREQUEST\NETREQUEST\bin\Debug\netcoreapp2.2\NETREQUEST.runtimeconfig.dev.json
+D:\C# Мои программы\NETREQUEST\NETREQUEST\bin\Debug\netcoreapp2.2\NETREQUEST.dll
+D:\C# Мои программы\NETREQUEST\NETREQUEST\bin\Debug\netcoreapp2.2\NETREQUEST.pdb
+D:\C# Мои программы\NETREQUEST\NETREQUEST\bin\Debug\netcoreapp2.2\AngleSharp.dll
+D:\C# Мои программы\NETREQUEST\NETREQUEST\obj\Debug\netcoreapp2.2\NETREQUEST.csprojAssemblyReference.cache
+D:\C# Мои программы\NETREQUEST\NETREQUEST\obj\Debug\netcoreapp2.2\NETREQUEST.csproj.CoreCompileInputs.cache
+D:\C# Мои программы\NETREQUEST\NETREQUEST\obj\Debug\netcoreapp2.2\NETREQUEST.AssemblyInfoInputs.cache
+D:\C# Мои программы\NETREQUEST\NETREQUEST\obj\Debug\netcoreapp2.2\NETREQUEST.AssemblyInfo.cs
+D:\C# Мои программы\NETREQUEST\NETREQUEST\obj\Debug\netcoreapp2.2\NETREQUEST.csproj.CopyComplete
+D:\C# Мои программы\NETREQUEST\NETREQUEST\obj\Debug\netcoreapp2.2\NETREQUEST.dll
+D:\C# Мои программы\NETREQUEST\NETREQUEST\obj\Debug\netcoreapp2.2\NETREQUEST.pdb
